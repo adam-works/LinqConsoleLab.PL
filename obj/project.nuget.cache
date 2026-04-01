@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0mJN4jydDrE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adamp\\Desktop\\Pulpit\\LinqConsoleLab.PL\\LinqConsoleLab.PL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adamp\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.14\\microsoft.netcore.app.ref.9.0.14.nupkg.sha512",
+    "C:\\Users\\adamp\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.14\\microsoft.windowsdesktop.app.ref.9.0.14.nupkg.sha512",
+    "C:\\Users\\adamp\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.14\\microsoft.aspnetcore.app.ref.9.0.14.nupkg.sha512",
+    "C:\\Users\\adamp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.14\\microsoft.netcore.app.host.win-x64.9.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
